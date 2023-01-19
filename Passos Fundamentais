@@ -1,0 +1,11 @@
+Passos fundamentais:
+
+Analisar as especificações de requisitos para entender o escopo do sistema e as funcionalidades que precisam ser testadas.
+
+Identificar os casos de teste possíveis com base nas especificações de requisitos. Isso pode incluir cenários de teste de borda, cenários de teste de limite e outros tipos de testes.
+
+Escrever código Java para automatizar a geração de casos de teste. Isso pode incluir a utilização de bibliotecas de teste existentes, como JUnit ou TestNG, para garantir que os casos de teste sejam executados de forma automatizada.
+
+Executar os casos de teste gerados automaticamente e analisar os resultados. Isso pode incluir a geração de relatórios de teste automatizados para facilitar a análise dos resultados.
+
+Melhorar a ferramenta de geração automática de casos de teste com base nos resultados obtidos e nas necessidades futuras do projeto.
